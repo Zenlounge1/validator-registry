@@ -7,7 +7,10 @@
       "address": "corevaloper1uhrrdv6g6v9t38v4qghjucunnxyk8xt30vr8za",
       "restake": {
         "address": "core1uhrrdv6g6v9t38v4qghjucunnxyk8xt34jazzr",
-        "run_time": "every 1 hour",
+        "run_time": [
+        "02:00",
+        "4:00"
+      ],
         "minimum_reward": 10000
       }
     }
